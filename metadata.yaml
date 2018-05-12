@@ -1,0 +1,25 @@
+_repo: A-Concise-History-and-Directory-of-the-City-of-Norwich-for-1811_32829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berry, Christopher
+    alias: Berry, C.
+    gutenberg_agent_id: '36068'
+    url: http://www.gutenberg.org/2009/agents/36068
+description: ''
+gutenberg_issued: '2010-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwich (England) -- History'
+- !lcc 'DA'
+title: A Concise History and Directory of the City of Norwich for 1811
+url: http://www.gutenberg.org/ebooks/32829
