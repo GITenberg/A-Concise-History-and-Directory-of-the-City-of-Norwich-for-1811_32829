@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36068'
     url: http://www.gutenberg.org/2009/agents/36068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32829#A-Concise-History-and-Directory-of-the-City-of-Norwich-for-1811
 gutenberg_issued: '2010-06-15'
 gutenberg_type: Text
 identifiers:
